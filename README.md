@@ -5,7 +5,7 @@
 
 Я начинающий веб разработчик, на текущий момент нахожусь в поиске работы на должность Junior Frontend Developer.
 
-- :books: На данный момент обучаюсь на платформе Hexlet.
+- :books: Окончил курс "Фронтенд-разработчик" на платформе Hexlet.
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Invheor-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Invheor) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:invheor@gmail.com)
 
